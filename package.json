@@ -1,0 +1,22 @@
+{
+  "name": "ocxapi",
+  "version": "1.0.0",
+  "description": "easy use ocx api",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godspeedgld/ocxapi.git"
+  },
+  "keywords": [
+    "ocx"
+  ],
+  "author": "godspeedgld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godspeedgld/ocxapi/issues"
+  },
+  "homepage": "https://github.com/godspeedgld/ocxapi#readme"
+}
